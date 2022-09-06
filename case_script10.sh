@@ -7,6 +7,7 @@ echo " type 2 to do B"
 echo " type 3 to do C"
 echo " type 4 to do D"
 read choice
+read choice123
 
 case $choice in
 1)
