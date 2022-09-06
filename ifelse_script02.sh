@@ -15,3 +15,7 @@ else
 echo "You are not root quiting file"
 fi
 old change 
+echo "You are not root quiting file"
+fi
+new change
+
